@@ -132,3 +132,7 @@ a:hover{
   .contact-line{
       margin: 50px auto;
   }
+ .img-fluid{
+    width: 40%;
+    height: auto;
+}
